@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
 <h3 align="center">A passionate front-end developer from Colorado Springs</h3>
 
-- 🔭 I’m currently working on a [canvasjs vertical platformer game](https://github.com/bwilliams91/Vertical-platform-game)
+- 🔭 I’m currently working on a Three.js Course
 
 - 🌱 I’m currently learning **React, Next.js, tailwindcss, three.js**
 
 <!-- - 👨‍💻 All of my projects are available at [/](/) -->
 
-- 💬 Ask me about **JavaScript, CSS, and Data Visualization**
+- 💬 Ask me about **JavaScript, CSS, and 3d Modeling**
 
 - 📫 How to reach me **brianw.developer@gmail.com**
 
